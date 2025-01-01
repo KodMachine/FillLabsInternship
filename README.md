@@ -18,7 +18,7 @@
      ```
    - Start the React development server with:
      ```
-     npm run start
+     npm run dev
      ```
 
 ---
